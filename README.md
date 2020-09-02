@@ -2,4 +2,4 @@
 
 
 
-![test](images/architecture-of-manhattan.pn?raw=true)
+![test](images/architecture-of-manhattan.png)
