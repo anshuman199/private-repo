@@ -3,3 +3,5 @@
 
 
 ![test](images/architecture-of-manhattan.png)
+
+# New Logo
